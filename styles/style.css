@@ -1,0 +1,30 @@
+section.calculator{
+    width: 300px;
+    height: 500px;
+    background-color: gray;
+}
+.calc-screen{
+    width: 300px;
+    height: 100px;
+    background-color: aquamarine;
+    font-size: 30px;
+}
+.button{
+    width: 70px;
+    height: 55px;
+    background-color:palevioletred;
+    display: inline-block;
+    margin-bottom: 5px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
+.class-row{
+    display: inline-block;
+}
+.button:hover{
+    background-color: blueviolet;
+    
+
+   
+}
